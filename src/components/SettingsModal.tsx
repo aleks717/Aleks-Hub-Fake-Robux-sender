@@ -598,6 +598,12 @@ export const SettingsModal: React.FC<SettingsModalProps> = ({
                   </div>
                 </div>
               </div>
+
+              <div className="pt-2 text-center">
+                <span className="text-[11px] text-[#656668] dark:text-zinc-500 font-medium">
+                  made by Aleks
+                </span>
+              </div>
             </div>
           )}
         </div>
